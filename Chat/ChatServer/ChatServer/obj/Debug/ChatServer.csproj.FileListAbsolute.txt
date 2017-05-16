@@ -1,0 +1,12 @@
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

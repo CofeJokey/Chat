@@ -1,0 +1,12 @@
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\Илья\Desktop\ForGIT\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Илья\Desktop\Новая папка (6)\Chat\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
